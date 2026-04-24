@@ -1,10 +1,11 @@
 ### Build a Boat building tools
 
 > [!CAUTION]
-> The app is not downloadable on any other website. Only this GitHub Repository. Any other websites that offer downloads to this app are most likely scams and can harm your device.
+> This app is only downloadable through this GitHub repository with the as provided Google Drive link. Any other websites or GitHub repositories not by me are most likely scams and can harm your device!
+> Make sure the creator is hmehfg if you are looking for the C-WPF-Build-A-Boat-building-tool-for-Windows-11 repository.
 
 Greetings! Welcome to my project, Build a Boat Building tools. This is a test version, don't expect a full-fledged and customizable C# app!
-Underneath is a table of contents, feel feree to read!
+Underneath is a table of contents, feel free to read!
 
 ---
 
@@ -15,6 +16,13 @@ Underneath is a table of contents, feel feree to read!
 - Bridging blocks section: Bridge blocks (Connect blocks) with any X and Y coordinate
 - Pyramid section: Create pyramids with any radius, height, and number of sides
 - Settings section (Work In Progress!)
+
+## GUI design/description
+- Transparent modern sidebar and main content section
+- Rounded GUI elements
+- Input fields at the top for Shape Parameters (Edit this to change the properties of the targeted shape dimensions!)
+- Results section underneath Shape Parameters shows the results of each calculation
+- Settings page with three checkboxes, one slider, and one rounded button underneath the slider (WIP features)
 
 ---
 
