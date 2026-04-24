@@ -34,6 +34,7 @@ This is a non-profit project created by one person!
 
 ## Where can I download it?
 This app is only available through this GitHub repository.
-Download it here -> 
+Download it here -> https://drive.google.com/file/d/1wxSckA5KDLXIzLD8GJs59kHj_OsgWFkb/view?usp=sharing
+(It's a Google Drive link since I have a 25 mb file size limit in GitHub)
 
 *Developed for educational purposes. Built with passion for builders.*
