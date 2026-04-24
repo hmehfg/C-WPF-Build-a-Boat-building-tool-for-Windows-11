@@ -1,4 +1,4 @@
-# Build a Boat building tools
+### Build a Boat building tools
 
 > [!CAUTION]
 > The app is not downloadable on any other website. Only this GitHub Repository. Any other websites that offer downloads to this app are most likely scams and can harm your device.
@@ -25,12 +25,12 @@ It's basically a third-party build "helper".
 ## Approximate size of the app?
 The approximate size of this app is around 133 megabytes.
 
-### Is it safe?
+## Is it safe?
 **Yes**, this app is completely safe and free to use. The app **does not contain malware** and is **not malicious**.
 
-### Who created this?
+## Who created this?
 Kane, or hmehfg (me), created this app, no one else.
-This is a non-profit project!
+This is a non-profit project created by one person!
 
 ## Where can I download it?
 This app is only available through this GitHub repository.
