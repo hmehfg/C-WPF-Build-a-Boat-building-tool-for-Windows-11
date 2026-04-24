@@ -28,7 +28,7 @@ Underneath is a table of contents, feel free to read!
 
 ## The app's purpose
 The purpose of this app is to aid other builders in creating polygons, pyramids, or bridge blocks.
-It's basically a third-party build "helper".
+It's basically a third-party build "helper" designed for BABFT. It can also be used for other building programs or games.
 
 ## Approximate size of the app?
 The approximate size of this app is around 133 megabytes.
