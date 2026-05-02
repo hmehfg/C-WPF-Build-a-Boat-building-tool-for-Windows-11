@@ -1,0 +1,25 @@
+variables:
+
+Number of sides (n)
+Radius (r)
+Height of the pyramid's apex (h)
+Slant height (s)
+Side width (w)
+Leg rotation angle (α)
+Leg length (L)
+Inward tilt angle (φ)
+
+1. Base: θ = 360° / n 
+w = 2 x r x tan (180°/n) 
+
+2. Constructing triangles for pyramid
+Width of the triangle is already determined by the pyramid's side width. 
+
+Slant Height: $$s = \sqrt{r^2 + h^2}$$
+Leg Length: $$L = \sqrt{s^2 + (w/2)^2}$$ 
+Leg Rotation angle: $$\alpha = \arctan\left(\frac{s}{w/2}\right)$$ 
+
+3. Inward rotation: $$\phi = \arctan(h / r)$$ then 90 - φ
+
+
+(Made to display correctly in LaTeX)

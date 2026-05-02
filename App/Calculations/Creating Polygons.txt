@@ -1,0 +1,31 @@
+Variables:
+Rotation angle (θ)
+Side Width (w)
+Radius (r)
+Number of sides (n)
+
+Calculation:
+
+Rotation angle (θ)
+
+θ = 360 / n
+
+Side width (w)
+
+w = 2 x r x tan (180° / n)
+
+Example:
+
+Let's say I want to create a 24-sided polygon.
+
+1. Calculate the rotation angle
+
+θ = 360° / 24 = 15
+The rotation angle for each side is 15 units
+
+2. Let's pick the radius to be 15
+
+w = 2 x 15 x tan (180° / 24)
+w = 30 x tan (7.5°)
+w = 30 x 0.13165
+w ≈ 3.9495 studs

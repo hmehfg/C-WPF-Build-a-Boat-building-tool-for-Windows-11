@@ -1,0 +1,8 @@
+Variables:
+Horizontal distance (X)
+Vertical distance (Y)
+Rotation angle (θ)
+
+Rotation angle:
+
+θ = arctan (Y / X) x 180 / π
