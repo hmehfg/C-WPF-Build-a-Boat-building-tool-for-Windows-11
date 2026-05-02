@@ -20,7 +20,7 @@ The app includes a semi-transparent, rounded, black background. The sections Pol
 ---
 
 # Is this malware?
-No, this is not malware. The source code is as provided in the "App" folder. You can review it for yourself. The app uses C# WPF for the GUI and calculations.
+No, this is not malware. The source code is soon going to be provided. The app uses C# WPF for the GUI and calculations.
 
 ---
 
